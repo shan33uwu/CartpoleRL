@@ -1,0 +1,5 @@
+{
+  "name": "CartPole RL Sandbox",
+  "description": "An interactive Reinforcement Learning sandbox where you can train a neural network to balance a pole on a cart using Policy Gradients directly in the browser.",
+  "requestFramePermissions": []
+}
